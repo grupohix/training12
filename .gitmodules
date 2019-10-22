@@ -1,0 +1,4 @@
+[submodule "grupohix/dental"]
+	path = grupohix/dental
+	url = git@github.com:grupohix/dental.git
+	branch = master
